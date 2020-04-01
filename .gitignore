@@ -1,3 +1,8 @@
 bin/
 obj/
 /packages/
+/.idea/.idea.DMScreenApi/.idea/contentModel.xml
+/.idea/.idea.DMScreenApi/.idea/modules.xml
+/DMScreen.Api/mono_crash.mem.8904.1.blob
+/DMScreen.Api/mono_crash.mem.9416.1.blob
+/.idea/.idea.DMScreenApi/riderModule.iml
